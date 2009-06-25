@@ -20,6 +20,9 @@ Watir ~ Firewatir ~ Safariwatir::  http://wtr.rubyforge.org/install.html
 
 == Rails Sample
 
+Before
+
+  gem install nofxx-watircuke
 
 cucumber.yml
 
